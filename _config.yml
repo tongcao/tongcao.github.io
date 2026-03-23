@@ -10,3 +10,14 @@ author:
 # 博客配置
 permalink: /:year/:month/:day/:title/ # 文章 URL 格式
 paginate: 5 # 每页显示 5 篇文章
+
+# 导航栏链接
+header_pages:
+  - about.md
+  - archive.md
+
+# 页脚社交链接
+social_links:
+  github: tongcao
+  twitter: your_twitter_id
+  email: your-email@example.com
