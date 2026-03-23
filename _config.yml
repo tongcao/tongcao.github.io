@@ -25,3 +25,4 @@ social_links:
 minima:
   skin: auto  # 自动跟随系统深色/浅色模式
   date_format: "%Y-%m-%d"  # 日期显示格式
+  custom_css: /assets/css/style.css # css样式
