@@ -15,3 +15,6 @@ categories: 随笔
 - Giscus 基于 GitHub Discussions 的评论系统
 
 以后我会在这里分享更多技术和生活的内容~
+
+尝试加载一个图片进来
+![测试加载一个图片](/assets/images/微信图片_20220819195258.png)
