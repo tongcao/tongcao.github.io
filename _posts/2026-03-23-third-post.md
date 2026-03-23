@@ -1,3 +1,8 @@
+layout: post
+title: 我的第二篇博客
+date: 2026-03-23 1334
+categories: 随笔
+
 这次是用git 上传的第三篇博客文章，
 
 套用的代码是：
@@ -16,3 +21,4 @@ git commit -m "添加第三篇博客：2026-03-24-third-post"
 
  4. 推送到 GitHub
 git push origin main
+
