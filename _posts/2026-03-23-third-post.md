@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: 我的第二篇博客
-date: 2026-03-23 1334
+title: 我的第三篇博客
+date: 2026-03-23 1512
 categories: 随笔
 
 ---
@@ -17,12 +17,21 @@ categories: 随笔
 
 git status
 
- 2. 把所有修改加入待提交列表
-git add .
+  2. 把所有修改加入待提交列表
+  git add .
 
- 3. 提交修改并写备注
-git commit -m "添加第三篇博客：2026-03-24-third-post"
+  3. 提交修改并写备注
+  git commit -m "添加第三篇博客：2026-03-24-third-post"
 
- 4. 推送到 GitHub
-git push origin main
+  4. 推送到 GitHub
+  git push origin main
 
+直接复制
+
+`git status`
+
+`git add .`
+
+`git commit -m "添加第三篇博客：2026-03-24-third-post"`
+
+`git push origin main`
